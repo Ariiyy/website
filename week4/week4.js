@@ -1,1 +1,0 @@
-alert("Welcome, " + prompt("What is your name?", "") + "!");
